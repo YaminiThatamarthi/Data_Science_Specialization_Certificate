@@ -1,3 +1,6 @@
+Data_Science_and_Analyst_Certificate
+
+
 📜 Certification & Course Completion
 I have successfully completed the Advanced Data Science & AI from SkillSlash Academy, a comprehensive industry-driven course designed to prepare professionals for roles in both Data Analysis and Data Science. The program included practical, hands-on training with real-world datasets, business scenarios, and guided project work.
 ________________________________________
